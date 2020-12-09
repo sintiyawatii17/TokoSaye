@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Toko Saye</string>
+    <string name="profile_nama">Sintiyawati</string>
+    <string name="profile_username">sintiyawati</string>
+    <string name="profile_follow_count">1jt</string>
+    <string name="profile_followers">Pengikut</string>
+    <string name="profile_follow_button">Follow</string>
+    <string name="profile_pesan">Kirim Pesan</string>
+</resources>
